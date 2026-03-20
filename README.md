@@ -9,7 +9,7 @@
 
 💻 Языки: JavaScript, TypeScript, C, C#
 
-🛠 Технологии: git, linux, Docker, Figma, .NET, React
+🛠 Технологии: git, linux, Docker, Figma, .NET, React, Next.js
 
 <!--
 **vladbelyaevvv/vladbelyaevvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
