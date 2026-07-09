@@ -2,8 +2,6 @@
 
 ### A passionate Javascript developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vladbelyaevvv" alt="vladbelyaevvv" /></a> </p>
-
 - 🔭 I'm currently working on **Educational frontend projects**
 
 - 🌱 I'm currently learning **React and Angular**
